@@ -1,0 +1,9 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+
+:root {
+  --background: #f0f0f0; /* Example background color */
+  --foreground: #333333; /* Example foreground color */
+}
